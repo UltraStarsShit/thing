@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "U3",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "ok now im ep ep bru"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lmaooooooooooooooooooooooooooooooooooooooo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "U3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "why don't you die yet"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "cuz im joe"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "U3",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "who tf is joe"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fucking beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "U3",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lol ok"
+		}
+	]
+}

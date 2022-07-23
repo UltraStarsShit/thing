@@ -1,0 +1,58 @@
+{
+	"storyName": "ok",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": true,
+	"songs": [
+		[
+			"Bad-Days-OLd",
+			"UA3",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"HD-Old",
+			"boku",
+			[
+				95,
+				135,
+				255
+			]
+		],
+		[
+			"wrong-Roommate-Old",
+			"stupiddumbassbitchevilyellowballsthing",
+			[
+				255,
+				195,
+				20
+			]
+		],
+		[
+			"Welcome-Home-Old",
+			"stupiddumbassbitchevilyellowballsthing",
+			[
+				235,
+				215,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

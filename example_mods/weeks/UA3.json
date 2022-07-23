@@ -1,0 +1,49 @@
+{
+	"storyName": "crossover thing lol",
+	"difficulties": "hard, hard, hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "UA2",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"HD",
+			"boku",
+			[
+				95,
+				135,
+				255
+			]
+		],
+		[
+			"flying",
+			"hisymamaamaama",
+			[
+				215,
+				215,
+				215
+			]
+		],
+		[
+			"bisturuon",
+			"mrbis",
+			[
+				206,
+				33,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": ""
+}

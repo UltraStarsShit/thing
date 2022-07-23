@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "U2",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "why my skin turn into dot shit"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ayonima lmaoooooooooooooooooooooooooooo"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "U2",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fuck you im out"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fucking beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "U2",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "lol ok"
+		}
+	]
+}

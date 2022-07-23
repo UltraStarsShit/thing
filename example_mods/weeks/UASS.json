@@ -1,0 +1,26 @@
+{
+	"storyName": "",
+	"difficulties": "normal",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Monochrome",
+			"nothing",
+			[
+				175,
+				135,
+				0
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Tutorial"
+}

@@ -1,0 +1,40 @@
+{
+	"storyName": "you pick the wrong house fools",
+	"difficulties": "hard, hard, hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "UA",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Wrong-Roommate",
+			"stupiddumbassbitchevilyellowballsthing",
+			[
+				255,
+				195,
+				20
+			]
+		],
+		[
+			"Sup",
+			"stupiddumbassbitchevilyellowballsthing",
+			[
+				235,
+				215,
+				0
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Custom Week"
+}

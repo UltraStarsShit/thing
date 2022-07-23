@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="niceopinion.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="nicedowm0000" x="2829" y="55" width="920" height="932" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="nicedown0001" x="1" y="996" width="945" height="896" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="niceleft0000" x="976" y="993" width="901" height="984" frameX="0" frameY="0" frameWidth="383" frameHeight="777"/>
+	<SubTexture name="niceleft0001" x="1923" y="1004" width="918" height="973" frameX="0" frameY="0" frameWidth="383" frameHeight="777"/>
+	<SubTexture name="niceright0000" x="910" y="8" width="933" height="973" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="niceright0001" x="1851" y="4" width="977" height="978" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="niceup0000" x="2882" y="998" width="900" height="999" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+	<SubTexture name="niceup0001" x="6" y="1907" width="930" height="1031" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+	<SubTexture name="niceidle0000" x="6" y="5" width="902" height="973" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+</TextureAtlas>

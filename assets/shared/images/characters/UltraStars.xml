@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UltraAltra.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="UltraAltra Down0000" x="0" y="0" width="948" height="841" frameX="0" frameY="0" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Down0001" x="948" y="0" width="953" height="846" frameX="0" frameY="-2" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Down0002" x="1901" y="0" width="954" height="847" frameX="0" frameY="-3" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Down0003" x="2855" y="0" width="955" height="848" frameX="0" frameY="-5" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Down0004" x="3810" y="0" width="957" height="849" frameX="0" frameY="-7" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Down0005" x="3810" y="0" width="957" height="849" frameX="0" frameY="-7" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Down0006" x="3810" y="0" width="957" height="849" frameX="0" frameY="-7" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Down0007" x="3810" y="0" width="957" height="849" frameX="0" frameY="-7" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Down0008" x="3810" y="0" width="957" height="849" frameX="0" frameY="-7" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Down0009" x="3810" y="0" width="957" height="849" frameX="0" frameY="-7" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Down0010" x="3810" y="0" width="957" height="849" frameX="0" frameY="-7" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Down0011" x="3810" y="0" width="957" height="849" frameX="0" frameY="-7" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Down0012" x="3810" y="0" width="957" height="849" frameX="0" frameY="-7" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Down0013" x="3810" y="0" width="957" height="849" frameX="0" frameY="-7" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Down0014" x="3810" y="0" width="957" height="849" frameX="0" frameY="-7" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="UltraAltra Idle0000" x="4767" y="0" width="875" height="684"/>
+	<SubTexture name="UltraAltra Idle0001" x="5642" y="0" width="859" height="667" frameX="-4" frameY="-7" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="UltraAltra Idle0002" x="6501" y="0" width="843" height="648" frameX="-8" frameY="-15" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="UltraAltra Idle0003" x="7344" y="0" width="825" height="630" frameX="-11" frameY="-25" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="UltraAltra Idle0004" x="0" y="849" width="818" height="624" frameX="-14" frameY="-31" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="UltraAltra Idle0005" x="818" y="849" width="811" height="622" frameX="-14" frameY="-33" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="UltraAltra Idle0006" x="1629" y="849" width="805" height="619" frameX="-14" frameY="-36" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="UltraAltra Idle0007" x="1629" y="849" width="805" height="619" frameX="-14" frameY="-36" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="UltraAltra Idle0008" x="1629" y="849" width="805" height="619" frameX="-14" frameY="-36" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="UltraAltra Idle0009" x="1629" y="849" width="805" height="619" frameX="-14" frameY="-36" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="UltraAltra Idle0010" x="1629" y="849" width="805" height="619" frameX="-14" frameY="-36" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="UltraAltra Idle0011" x="1629" y="849" width="805" height="619" frameX="-14" frameY="-36" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="UltraAltra Idle0012" x="1629" y="849" width="805" height="619" frameX="-14" frameY="-36" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="UltraAltra Idle0013" x="1629" y="849" width="805" height="619" frameX="-14" frameY="-36" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="UltraAltra Idle0014" x="1629" y="849" width="805" height="619" frameX="-14" frameY="-36" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="UltraAltra Left0000" x="2434" y="849" width="969" height="740"/>
+	<SubTexture name="UltraAltra Left0001" x="3403" y="849" width="949" height="726" frameX="-11" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="UltraAltra Left0002" x="4352" y="849" width="926" height="721" frameX="-25" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="UltraAltra Left0003" x="5278" y="849" width="900" height="716" frameX="-41" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="UltraAltra Left0004" x="6178" y="849" width="878" height="710" frameX="-53" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="UltraAltra Left0005" x="6178" y="849" width="878" height="710" frameX="-53" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="UltraAltra Left0006" x="6178" y="849" width="878" height="710" frameX="-53" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="UltraAltra Left0007" x="6178" y="849" width="878" height="710" frameX="-53" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="UltraAltra Left0008" x="6178" y="849" width="878" height="710" frameX="-53" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="UltraAltra Left0009" x="6178" y="849" width="878" height="710" frameX="-53" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="UltraAltra Left0010" x="6178" y="849" width="878" height="710" frameX="-53" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="UltraAltra Left0011" x="6178" y="849" width="878" height="710" frameX="-53" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="UltraAltra Left0012" x="6178" y="849" width="878" height="710" frameX="-53" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="UltraAltra Left0013" x="6178" y="849" width="878" height="710" frameX="-53" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="UltraAltra Left0014" x="6178" y="849" width="878" height="710" frameX="-53" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="UltraAltra Right0000" x="7056" y="849" width="942" height="775" frameX="0" frameY="-27" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Right0001" x="0" y="1624" width="945" height="783" frameX="-1" frameY="-21" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Right0002" x="945" y="1624" width="944" height="789" frameX="-5" frameY="-16" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Right0003" x="1889" y="1624" width="946" height="803" frameX="-9" frameY="-5" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Right0004" x="2835" y="1624" width="948" height="809" frameX="-10" frameY="0" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Right0005" x="2835" y="1624" width="948" height="809" frameX="-10" frameY="0" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Right0006" x="2835" y="1624" width="948" height="809" frameX="-10" frameY="0" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Right0007" x="2835" y="1624" width="948" height="809" frameX="-10" frameY="0" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Right0008" x="2835" y="1624" width="948" height="809" frameX="-10" frameY="0" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Right0009" x="2835" y="1624" width="948" height="809" frameX="-10" frameY="0" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Right0010" x="2835" y="1624" width="948" height="809" frameX="-10" frameY="0" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Right0011" x="2835" y="1624" width="948" height="809" frameX="-10" frameY="0" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Right0012" x="2835" y="1624" width="948" height="809" frameX="-10" frameY="0" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Right0013" x="2835" y="1624" width="948" height="809" frameX="-10" frameY="0" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Right0014" x="2835" y="1624" width="948" height="809" frameX="-10" frameY="0" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="UltraAltra Up0000" x="3783" y="1624" width="726" height="716" frameX="0" frameY="-13" frameWidth="773" frameHeight="753"/>
+	<SubTexture name="UltraAltra Up0001" x="4509" y="1624" width="741" height="716" frameX="0" frameY="-21" frameWidth="773" frameHeight="753"/>
+	<SubTexture name="UltraAltra Up0002" x="5250" y="1624" width="752" height="721" frameX="0" frameY="-22" frameWidth="773" frameHeight="753"/>
+	<SubTexture name="UltraAltra Up0003" x="6002" y="1624" width="764" height="740" frameX="0" frameY="-9" frameWidth="773" frameHeight="753"/>
+	<SubTexture name="UltraAltra Up0004" x="6766" y="1624" width="773" height="753"/>
+	<SubTexture name="UltraAltra Up0005" x="6766" y="1624" width="773" height="753"/>
+	<SubTexture name="UltraAltra Up0006" x="6766" y="1624" width="773" height="753"/>
+	<SubTexture name="UltraAltra Up0007" x="6766" y="1624" width="773" height="753"/>
+	<SubTexture name="UltraAltra Up0008" x="6766" y="1624" width="773" height="753"/>
+	<SubTexture name="UltraAltra Up0009" x="6766" y="1624" width="773" height="753"/>
+	<SubTexture name="UltraAltra Up0010" x="6766" y="1624" width="773" height="753"/>
+	<SubTexture name="UltraAltra Up0011" x="6766" y="1624" width="773" height="753"/>
+	<SubTexture name="UltraAltra Up0012" x="6766" y="1624" width="773" height="753"/>
+	<SubTexture name="UltraAltra Up0013" x="6766" y="1624" width="773" height="753"/>
+	<SubTexture name="UltraAltra Up0014" x="6766" y="1624" width="773" height="753"/>
+</TextureAtlas>

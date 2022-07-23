@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="UltraAltra.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="d0000" x="2533" y="61" width="865" height="775" frameX="0" frameY="0" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="d0001" x="2" y="807" width="907" height="801" frameX="0" frameY="-2" frameWidth="957" frameHeight="856"/>
+	<SubTexture name="i0000" x="14" y="3" width="794" height="762"/>
+	<SubTexture name="i0001" x="840" y="0" width="795" height="788" frameX="-4" frameY="-7" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="i0002" x="1681" y="3" width="826" height="804" frameX="-8" frameY="-15" frameWidth="875" frameHeight="684"/>
+	<SubTexture name="l0000" x="2706" y="854" width="874" height="834" frameX="-11" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="l0001" x="2" y="1670" width="956" height="882" frameX="-25" frameY="-9" frameWidth="969" frameHeight="740"/>
+	<SubTexture name="r0000" x="989" y="1713" width="1043" height="873" frameX="0" frameY="-27" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="r0001" x="2058" y="1716" width="1043" height="872" frameX="-1" frameY="-21" frameWidth="958" frameHeight="809"/>
+	<SubTexture name="u0000" x="908" y="817" width="883" height="847" frameX="0" frameY="-13" frameWidth="773" frameHeight="753"/>
+	<SubTexture name="u0001" x="1797" y="816" width="907" height="859" frameX="0" frameY="-21" frameWidth="773" frameHeight="753"/>
+</TextureAtlas>

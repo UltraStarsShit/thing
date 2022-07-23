@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1303,
+				-33
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Boku Idle"
+		},
+		{
+			"offsets": [
+				1223,
+				889
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Boku Left"
+		},
+		{
+			"offsets": [
+				54,
+				-60
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Boku Right"
+		},
+		{
+			"offsets": [
+				807,
+				-156
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Boku Down"
+		},
+		{
+			"offsets": [
+				538,
+				-87
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Boku Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/BokuHD",
+	"position": [
+		190,
+		330
+	],
+	"healthicon": "boku",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		16,
+		255
+	],
+	"camera_position": [
+		-1080,
+		-920
+	],
+	"sing_duration": 4,
+	"scale": 1.9
+}

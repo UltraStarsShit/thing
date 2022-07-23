@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DADDY_DEAREST.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="right0000" x="1725" y="770" width="683" height="660" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="right0001" x="2464" y="784" width="872" height="1454" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="left0000" x="27" y="1445" width="763" height="628" frameX="0" frameY="0" frameWidth="383" frameHeight="777"/>
+	<SubTexture name="left0001" x="818" y="1468" width="787" height="637" frameX="0" frameY="0" frameWidth="383" frameHeight="777"/>
+	<SubTexture name="down0000" x="41" y="891" width="780" height="488" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="up0000" x="905" y="695" width="638" height="680" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+	<SubTexture name="dance0000" x="25" y="18" width="805" height="635" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="dance0001" x="858" y="34" width="841" height="621" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="dance0002" x="1716" y="38" width="861" height="618" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="dance0003" x="2607" y="47" width="836" height="622" frameX="0" frameY="-8" frameWidth="429" frameHeight="767"/>
+</TextureAtlas>

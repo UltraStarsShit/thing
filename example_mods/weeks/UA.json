@@ -1,0 +1,49 @@
+{
+	"storyName": "ok",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "UA",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Days",
+			"UA",
+			[
+				255,
+				255,
+				0
+			]
+		],
+		[
+			"Anger",
+			"UA2",
+			[
+				255,
+				215,
+				0
+			]
+		],
+		[
+			"Bad-Days",
+			"UA3",
+			[
+				215,
+				175,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Custom Week"
+}

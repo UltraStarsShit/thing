@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": false,
+			"name": "Navin Idle"
+		},
+		{
+			"offsets": [
+				-33,
+				1
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Navin Left"
+		},
+		{
+			"offsets": [
+				-29,
+				4
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "Navin Right"
+		},
+		{
+			"offsets": [
+				-20,
+				0
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "Navin Down"
+		},
+		{
+			"offsets": [
+				-35,
+				12
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "Navin Up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/NAVIN",
+	"position": [
+		120,
+		30
+	],
+	"healthicon": "navin",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		242,
+		0
+	],
+	"camera_position": [
+		-40,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

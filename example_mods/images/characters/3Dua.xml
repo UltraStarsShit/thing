@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DADDY_DEAREST.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="right0000" x="67" y="574" width="504" height="480" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="left0000" x="65" y="573" width="507" height="480" frameX="0" frameY="0" frameWidth="383" frameHeight="777"/>
+	<SubTexture name="down0000" x="1824" y="52" width="554" height="488" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="up0000" x="2060" y="697" width="480" height="481" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+	<SubTexture name="dance0000" x="28" y="43" width="564" height="481" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+</TextureAtlas>

@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "U",
+			"boxState": "angry",
+			"expression": "shocked",
+			"text": "ow that hurtttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "U",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "who the fuck are you"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "fucking beep"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "U",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "sorry but i have no time to rap battle with you bitch go rap battle someone else"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap battle me you dick head"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "U",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "lol ok"
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"storyName": "memes",
+	"difficulties": "Easy, Memes",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "UA3",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"ok",
+			"meme",
+			[
+				246,
+				213,
+				135
+			]
+		],
+		[
+			"idk",
+			"meme",
+			[
+				246,
+				213,
+				95
+			]
+		],
+		[
+			"cursed",
+			"meme",
+			[
+				255,
+				233,
+				95
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "UA4"
+}

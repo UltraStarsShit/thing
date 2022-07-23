@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BokuHD.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Boku Down0000" x="0" y="0" width="1168" height="1134"/>
+	<SubTexture name="Boku Down0001" x="1168" y="0" width="1137" height="1116" frameX="-27" frameY="-6" frameWidth="1168" frameHeight="1134"/>
+	<SubTexture name="Boku Down0002" x="2305" y="0" width="1113" height="1101" frameX="-47" frameY="-13" frameWidth="1168" frameHeight="1134"/>
+	<SubTexture name="Boku Down0003" x="3418" y="0" width="1089" height="1084" frameX="-67" frameY="-19" frameWidth="1168" frameHeight="1134"/>
+	<SubTexture name="Boku Down0004" x="4507" y="0" width="1048" height="1048" frameX="-102" frameY="-29" frameWidth="1168" frameHeight="1134"/>
+	<SubTexture name="Boku Down0005" x="4507" y="0" width="1048" height="1048" frameX="-102" frameY="-29" frameWidth="1168" frameHeight="1134"/>
+	<SubTexture name="Boku Down0006" x="4507" y="0" width="1048" height="1048" frameX="-102" frameY="-29" frameWidth="1168" frameHeight="1134"/>
+	<SubTexture name="Boku Down0007" x="4507" y="0" width="1048" height="1048" frameX="-102" frameY="-29" frameWidth="1168" frameHeight="1134"/>
+	<SubTexture name="Boku Down0008" x="4507" y="0" width="1048" height="1048" frameX="-102" frameY="-29" frameWidth="1168" frameHeight="1134"/>
+	<SubTexture name="Boku Down0009" x="4507" y="0" width="1048" height="1048" frameX="-102" frameY="-29" frameWidth="1168" frameHeight="1134"/>
+	<SubTexture name="Boku Down0010" x="4507" y="0" width="1048" height="1048" frameX="-102" frameY="-29" frameWidth="1168" frameHeight="1134"/>
+	<SubTexture name="Boku Down0011" x="4507" y="0" width="1048" height="1048" frameX="-102" frameY="-29" frameWidth="1168" frameHeight="1134"/>
+	<SubTexture name="Boku Down0012" x="4507" y="0" width="1048" height="1048" frameX="-102" frameY="-29" frameWidth="1168" frameHeight="1134"/>
+	<SubTexture name="Boku Down0013" x="4507" y="0" width="1048" height="1048" frameX="-102" frameY="-29" frameWidth="1168" frameHeight="1134"/>
+	<SubTexture name="Boku Down0014" x="4507" y="0" width="1048" height="1048" frameX="-102" frameY="-29" frameWidth="1168" frameHeight="1134"/>
+	<SubTexture name="Boku Idle0000" x="5555" y="0" width="1261" height="1234"/>
+	<SubTexture name="Boku Idle0001" x="6816" y="0" width="1211" height="1198" frameX="-34" frameY="-17" frameWidth="1261" frameHeight="1234"/>
+	<SubTexture name="Boku Idle0002" x="0" y="1234" width="1172" height="1167" frameX="-69" frameY="-22" frameWidth="1261" frameHeight="1234"/>
+	<SubTexture name="Boku Idle0003" x="1172" y="1234" width="1141" height="1142" frameX="-92" frameY="-35" frameWidth="1261" frameHeight="1234"/>
+	<SubTexture name="Boku Idle0004" x="2313" y="1234" width="1112" height="1115" frameX="-104" frameY="-53" frameWidth="1261" frameHeight="1234"/>
+	<SubTexture name="Boku Idle0005" x="3425" y="1234" width="1078" height="1078" frameX="-116" frameY="-77" frameWidth="1261" frameHeight="1234"/>
+	<SubTexture name="Boku Idle0006" x="4503" y="1234" width="1048" height="1048" frameX="-131" frameY="-91" frameWidth="1261" frameHeight="1234"/>
+	<SubTexture name="Boku Idle0007" x="4503" y="1234" width="1048" height="1048" frameX="-131" frameY="-91" frameWidth="1261" frameHeight="1234"/>
+	<SubTexture name="Boku Idle0008" x="4503" y="1234" width="1048" height="1048" frameX="-131" frameY="-91" frameWidth="1261" frameHeight="1234"/>
+	<SubTexture name="Boku Idle0009" x="4503" y="1234" width="1048" height="1048" frameX="-131" frameY="-91" frameWidth="1261" frameHeight="1234"/>
+	<SubTexture name="Boku Idle0010" x="4503" y="1234" width="1048" height="1048" frameX="-131" frameY="-91" frameWidth="1261" frameHeight="1234"/>
+	<SubTexture name="Boku Idle0011" x="4503" y="1234" width="1048" height="1048" frameX="-131" frameY="-91" frameWidth="1261" frameHeight="1234"/>
+	<SubTexture name="Boku Idle0012" x="4503" y="1234" width="1048" height="1048" frameX="-131" frameY="-91" frameWidth="1261" frameHeight="1234"/>
+	<SubTexture name="Boku Idle0013" x="4503" y="1234" width="1048" height="1048" frameX="-131" frameY="-91" frameWidth="1261" frameHeight="1234"/>
+	<SubTexture name="Boku Idle0014" x="4503" y="1234" width="1048" height="1048" frameX="-131" frameY="-91" frameWidth="1261" frameHeight="1234"/>
+	<SubTexture name="Boku Left0000" x="5551" y="1234" width="1234" height="1286"/>
+	<SubTexture name="Boku Left0001" x="6785" y="1234" width="1182" height="1221" frameX="-39" frameY="-38" frameWidth="1234" frameHeight="1286"/>
+	<SubTexture name="Boku Left0002" x="0" y="2520" width="1137" height="1168" frameX="-70" frameY="-71" frameWidth="1234" frameHeight="1286"/>
+	<SubTexture name="Boku Left0003" x="1137" y="2520" width="1096" height="1111" frameX="-97" frameY="-104" frameWidth="1234" frameHeight="1286"/>
+	<SubTexture name="Boku Left0004" x="2233" y="2520" width="1048" height="1048" frameX="-129" frameY="-130" frameWidth="1234" frameHeight="1286"/>
+	<SubTexture name="Boku Left0005" x="2233" y="2520" width="1048" height="1048" frameX="-129" frameY="-130" frameWidth="1234" frameHeight="1286"/>
+	<SubTexture name="Boku Left0006" x="2233" y="2520" width="1048" height="1048" frameX="-129" frameY="-130" frameWidth="1234" frameHeight="1286"/>
+	<SubTexture name="Boku Left0007" x="2233" y="2520" width="1048" height="1048" frameX="-129" frameY="-130" frameWidth="1234" frameHeight="1286"/>
+	<SubTexture name="Boku Left0008" x="2233" y="2520" width="1048" height="1048" frameX="-129" frameY="-130" frameWidth="1234" frameHeight="1286"/>
+	<SubTexture name="Boku Left0009" x="2233" y="2520" width="1048" height="1048" frameX="-129" frameY="-130" frameWidth="1234" frameHeight="1286"/>
+	<SubTexture name="Boku Left0010" x="2233" y="2520" width="1048" height="1048" frameX="-129" frameY="-130" frameWidth="1234" frameHeight="1286"/>
+	<SubTexture name="Boku Left0011" x="2233" y="2520" width="1048" height="1048" frameX="-129" frameY="-130" frameWidth="1234" frameHeight="1286"/>
+	<SubTexture name="Boku Left0012" x="2233" y="2520" width="1048" height="1048" frameX="-129" frameY="-130" frameWidth="1234" frameHeight="1286"/>
+	<SubTexture name="Boku Left0013" x="2233" y="2520" width="1048" height="1048" frameX="-129" frameY="-130" frameWidth="1234" frameHeight="1286"/>
+	<SubTexture name="Boku Left0014" x="2233" y="2520" width="1048" height="1048" frameX="-129" frameY="-130" frameWidth="1234" frameHeight="1286"/>
+	<SubTexture name="Boku Right0000" x="3281" y="2520" width="1193" height="1158"/>
+	<SubTexture name="Boku Right0001" x="4474" y="2520" width="1159" height="1127" frameX="-28" frameY="-24" frameWidth="1193" frameHeight="1158"/>
+	<SubTexture name="Boku Right0002" x="5633" y="2520" width="1125" height="1103" frameX="-55" frameY="-41" frameWidth="1193" frameHeight="1158"/>
+	<SubTexture name="Boku Right0003" x="6758" y="2520" width="1094" height="1075" frameX="-81" frameY="-60" frameWidth="1193" frameHeight="1158"/>
+	<SubTexture name="Boku Right0004" x="0" y="3688" width="1062" height="1048" frameX="-106" frameY="-80" frameWidth="1193" frameHeight="1158"/>
+	<SubTexture name="Boku Right0005" x="0" y="3688" width="1062" height="1048" frameX="-106" frameY="-80" frameWidth="1193" frameHeight="1158"/>
+	<SubTexture name="Boku Right0006" x="0" y="3688" width="1062" height="1048" frameX="-106" frameY="-80" frameWidth="1193" frameHeight="1158"/>
+	<SubTexture name="Boku Right0007" x="0" y="3688" width="1062" height="1048" frameX="-106" frameY="-80" frameWidth="1193" frameHeight="1158"/>
+	<SubTexture name="Boku Right0008" x="0" y="3688" width="1062" height="1048" frameX="-106" frameY="-80" frameWidth="1193" frameHeight="1158"/>
+	<SubTexture name="Boku Right0009" x="0" y="3688" width="1062" height="1048" frameX="-106" frameY="-80" frameWidth="1193" frameHeight="1158"/>
+	<SubTexture name="Boku Right0010" x="0" y="3688" width="1062" height="1048" frameX="-106" frameY="-80" frameWidth="1193" frameHeight="1158"/>
+	<SubTexture name="Boku Right0011" x="0" y="3688" width="1062" height="1048" frameX="-106" frameY="-80" frameWidth="1193" frameHeight="1158"/>
+	<SubTexture name="Boku Right0012" x="0" y="3688" width="1062" height="1048" frameX="-106" frameY="-80" frameWidth="1193" frameHeight="1158"/>
+	<SubTexture name="Boku Right0013" x="0" y="3688" width="1062" height="1048" frameX="-106" frameY="-80" frameWidth="1193" frameHeight="1158"/>
+	<SubTexture name="Boku Right0014" x="0" y="3688" width="1062" height="1048" frameX="-106" frameY="-80" frameWidth="1193" frameHeight="1158"/>
+	<SubTexture name="Boku Up0000" x="1062" y="3688" width="1155" height="1176"/>
+	<SubTexture name="Boku Up0001" x="2217" y="3688" width="1130" height="1143" frameX="-4" frameY="-15" frameWidth="1155" frameHeight="1176"/>
+	<SubTexture name="Boku Up0002" x="3347" y="3688" width="1106" height="1116" frameX="-7" frameY="-28" frameWidth="1155" frameHeight="1176"/>
+	<SubTexture name="Boku Up0003" x="4453" y="3688" width="1079" height="1087" frameX="-11" frameY="-41" frameWidth="1155" frameHeight="1176"/>
+	<SubTexture name="Boku Up0004" x="5532" y="3688" width="1048" height="1048" frameX="-16" frameY="-58" frameWidth="1155" frameHeight="1176"/>
+	<SubTexture name="Boku Up0005" x="5532" y="3688" width="1048" height="1048" frameX="-16" frameY="-58" frameWidth="1155" frameHeight="1176"/>
+	<SubTexture name="Boku Up0006" x="5532" y="3688" width="1048" height="1048" frameX="-16" frameY="-58" frameWidth="1155" frameHeight="1176"/>
+	<SubTexture name="Boku Up0007" x="5532" y="3688" width="1048" height="1048" frameX="-16" frameY="-58" frameWidth="1155" frameHeight="1176"/>
+	<SubTexture name="Boku Up0008" x="5532" y="3688" width="1048" height="1048" frameX="-16" frameY="-58" frameWidth="1155" frameHeight="1176"/>
+	<SubTexture name="Boku Up0009" x="5532" y="3688" width="1048" height="1048" frameX="-16" frameY="-58" frameWidth="1155" frameHeight="1176"/>
+	<SubTexture name="Boku Up0010" x="5532" y="3688" width="1048" height="1048" frameX="-16" frameY="-58" frameWidth="1155" frameHeight="1176"/>
+	<SubTexture name="Boku Up0011" x="5532" y="3688" width="1048" height="1048" frameX="-16" frameY="-58" frameWidth="1155" frameHeight="1176"/>
+	<SubTexture name="Boku Up0012" x="5532" y="3688" width="1048" height="1048" frameX="-16" frameY="-58" frameWidth="1155" frameHeight="1176"/>
+	<SubTexture name="Boku Up0013" x="5532" y="3688" width="1048" height="1048" frameX="-16" frameY="-58" frameWidth="1155" frameHeight="1176"/>
+	<SubTexture name="Boku Up0014" x="5532" y="3688" width="1048" height="1048" frameX="-16" frameY="-58" frameWidth="1155" frameHeight="1176"/>
+</TextureAtlas>
