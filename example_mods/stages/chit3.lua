@@ -1,6 +1,6 @@
 function onCreate()
 	-- background shit
-	makeLuaSprite('chit3', 'chit3', -500, -190);
+	makeLuaSprite('chit3', 'chit3', -500, -220);
 	setScrollFactor('chit3', 0.3, 0.3);
 
 	-- sprites that only load if Low Quality is turned off

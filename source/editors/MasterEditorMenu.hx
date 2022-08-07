@@ -43,7 +43,7 @@ class MasterEditorMenu extends MusicBeatState
 		DiscordClient.changePresence("Editors Main Menu", null);
 		#end
 
-		var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image('menuDesat'));
+		var bg:FlxSprite = new FlxSprite().loadGraphic(Paths.image('freeplaymenudesatiguess'));
 		bg.scrollFactor.set();
 		bg.color = 0xFF353535;
 		add(bg);
@@ -54,13 +54,13 @@ class MasterEditorMenu extends MusicBeatState
 		for (i in 0...options.length)
 		{
 			var leText:Alphabet = new Alphabet(0, (70 * i) + 30, options[i], true, false);
-			leText.isMenuItem = true;
+			leText.isMenuItemCenter = true;
 			leText.targetY = i;
 			grpTexts.add(leText);
 		}
 		
 		#if MODS_ALLOWED
-		var textBG:FlxSprite = new FlxSprite(0, FlxG.height - 42).makeGraphic(FlxG.width, 42, 0xFF000000);
+		var textBG:FlxSprite = new FlxSprite(0, FlxG.height - 42).makeGraphic(FlxG.width, 42, 0xFFFF0000);
 		textBG.alpha = 0.6;
 		add(textBG);
 

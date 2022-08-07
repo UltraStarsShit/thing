@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shg.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shhhhhhhhhhhhhh0000" x="148" y="12" width="404" height="1184" frameX="-6" frameY="0" frameWidth="429" frameHeight="767"/>
+	<SubTexture name="shaaaaadown0000" x="679" y="7" width="338" height="1169" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="shaaaaadown0001" x="1102" y="66" width="412" height="1108" frameX="0" frameY="-5" frameWidth="470" frameHeight="735"/>
+	<SubTexture name="shaaaaaleft0000" x="2711" y="0" width="417" height="1223" frameX="0" frameY="0" frameWidth="383" frameHeight="777"/>
+	<SubTexture name="shaaaaaleft0001" x="3144" y="13" width="452" height="1210" frameX="0" frameY="0" frameWidth="383" frameHeight="777"/>
+	<SubTexture name="shaaaaashaaaaaright0000" x="1827" y="1252" width="435" height="1273" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="shaaaaashaaaaaright0001" x="2285" y="1250" width="436" height="1276" frameX="0" frameY="-1" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="shaaaaashaaaaaright0002" x="2745" y="1257" width="448" height="1270" frameX="0" frameY="0" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="shaaaaashaaaaaright0003" x="3205" y="1261" width="465" height="1264" frameX="0" frameY="0" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="shaaaaashaaaaaright0004" x="100" y="2540" width="473" height="1264" frameX="0" frameY="0" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="shaaaaashaaaaaright0005" x="642" y="2544" width="486" height="1261" frameX="0" frameY="0" frameWidth="465" frameHeight="793"/>
+	<SubTexture name="shaggy0000" x="1218" y="2635" width="389" height="1170" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+	<SubTexture name="shaggy0001" x="1652" y="2581" width="389" height="1223" frameX="-1" frameY="0" frameWidth="409" frameHeight="818"/>
+</TextureAtlas>
