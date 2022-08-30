@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="stupid idiot new.png">
+<SubTexture name="stupid idiot new down0000" x="0" y="0" width="852" height="661" frameX="-204" frameY="-360" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="stupid idiot new idle0000" x="852" y="0" width="852" height="661" frameX="-204" frameY="-360" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="stupid idiot new idle0001" x="0" y="661" width="871" height="661" frameX="-198" frameY="-360" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="stupid idiot new left0000" x="1704" y="0" width="852" height="661" frameX="-204" frameY="-360" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="stupid idiot new right0000" x="1704" y="661" width="852" height="661" frameX="-204" frameY="-360" frameWidth="1280" frameHeight="1280" />
+<SubTexture name="stupid idiot new up0000" x="0" y="1322" width="852" height="661" frameX="-204" frameY="-360" frameWidth="1280" frameHeight="1280" />
+</TextureAtlas>
